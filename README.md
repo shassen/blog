@@ -1,2 +1,2 @@
-# blog
-A blog for users to express whatever's on their mind
+# Welcome to Blog:
+A place for users to express whatever's on their mind
