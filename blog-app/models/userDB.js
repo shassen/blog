@@ -1,4 +1,4 @@
-const { db, pgp } = require('../config/conn');
+const { db, pgp } = require('../config/connection');
 
 
 module.exports = {
@@ -19,6 +19,14 @@ module.exports = {
 
   create(user) {
     
-  }
+  },
+
+  update(userId) {
+
+  },
+
+  delete(userId) {
+
+  },
 
 }
